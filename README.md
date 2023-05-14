@@ -1,6 +1,6 @@
-# thoughts_to_write_11
+# Thoughts_to_write_11
 
-## Table-of-Contents
+## Table of Contents
 
   * [Description](#description)
   * [User Story](#User-Story)
