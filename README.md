@@ -40,7 +40,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 ## Website Link
-Check out the deployed app here: [Note Taker------]()
+Check out the deployed app here: [https://skye143.github.io/thoughts_to_write_11/](https://skye143.github.io/thoughts_to_write_11/)
 
   To contact me please utilize the provided links below:
 
@@ -49,5 +49,3 @@ Check out the deployed app here: [Note Taker------]()
   [LinkedIn](https://www.linkedin.com/in/skye-h-988a7a221)
 
   [Email](mailto:skyeheredia@gmail.com)
-
-  [WALKTHROUGH LINK-------](----------------)
